@@ -1,2 +1,2 @@
 # Paridade.py
-Um mostrador de numeros impares e pares
+#Um mostrador de numeros impares e pares feitos em python
